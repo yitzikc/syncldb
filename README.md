@@ -12,5 +12,5 @@ _Usage_: `SyncLdb.py ldb_dir_path replica_dir_path`
 
 # Requirements
 - Python 3.4 or higher
-- Wathcdog pacakge
+- Watchdog package (see [installation instructions](http://pythonhosted.org/watchdog/installation.html#installation))
 
